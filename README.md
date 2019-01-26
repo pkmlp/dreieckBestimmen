@@ -1,0 +1,2 @@
+# dreieckBestimmen
+Python Module/Functions
